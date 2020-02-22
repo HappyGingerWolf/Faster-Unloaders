@@ -1,2 +1,2 @@
 # Faster-Unloaders
-A mod for mindustry. Increases the speed of unloaders.
+A mod for mindustry. Makes unloaders 10x faster.
