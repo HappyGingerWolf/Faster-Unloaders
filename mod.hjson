@@ -1,0 +1,6 @@
+name: "faster-unloaders"
+displayName: "[blue]Faster Unloaders"
+author: "GingerWolf"
+description: "A mod that speeds up unloaders."
+version: "1"
+minGameVersion: "103"
