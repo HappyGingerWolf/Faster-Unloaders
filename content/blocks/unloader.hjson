@@ -1,1 +1,15 @@
+name: Fast Unloader
+description: Unloader but faster.
+type: Unloader
+itemCapacity: 10
+hasItems: true
+health: 140
+size: 1
+requirements: [
+  titanium/25
+  silicon/30
+  thorium/20
+]
+category: effect
 speed: 1
+research: unloader
