@@ -1,6 +1,6 @@
-name: "faster-unloaders"
-displayName: "[blue]Faster Unloaders"
-author: "GingerWolf"
-description: "A mod that speeds up unloaders."
+name: "Faster unloaders alt"
+displayName: "[orange]Faster Unloaders[blue] alt" //what displays in the mod selection menu
+author: "DCinAC"
+description: "Modified from @HappyGingerWolf 's original Faster-Unloaders mod, this version separates the fast unloaders and slow unloaders"
 version: "1"
 minGameVersion: "103"
